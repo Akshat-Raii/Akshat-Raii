@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://your-gif-url-here.gif" alt="Welcome Gif" width="600">
+</p>
+
 # 💫 About Me:
 <br>Hey there! 👋 I'm Akshat Rai, a tech enthusiast and developer passionate about building impactful solutions that bridge technology and real-world needs. 🚀<br><br>💻 What I Do:<br>🤖 Specializing in Computer Vision, Distributed Systems, and Performance Optimization<br>📊 Building projects that process large-scale data to uncover insights and optimize performance<br>🌱 Continuously exploring new tools and frameworks to expand my skillset<br><br>🎯 What Drives Me:<br>Creating meaningful, real-world applications that make a difference 🌍<br>Collaborating with like-minded individuals to innovate and solve challenging problems 🤝<br>Sharing knowledge and fostering growth within the tech community 🌟<br><br>📬 Let's Connect:<br>If you’re into brainstorming ideas, collaborating on projects, or just chatting about tech, feel free to connect!
 
@@ -12,16 +16,18 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Akshat-Raii&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Raii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akshat-Raii&limit=5&theme=dark&combine_all_yearly_contributions=true)
----
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/akshat.raii) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshat-Raii/Akshat-Raii/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshat-Raii/Akshat-Raii/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Akshat-Raii/Akshat-Raii/output/github-snake.svg" />
 </picture>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Akshat-Raii&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/akshat.raii) 
+
+  
