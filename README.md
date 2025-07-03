@@ -16,6 +16,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Akshat-Raii&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Raii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 🎨 My Portfolio
+
+[![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-FF6F61?style=for-the-badge&logo=vercel&logoColor=white)](https://akshatrai.vercel.app)
+
+> 🧩 Explore my work, design inspirations, and projects that blend creativity with code — all in a manga-style themed portfolio!
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshat-Raii/Akshat-Raii/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshat-Raii/Akshat-Raii/output/github-snake.svg" />
