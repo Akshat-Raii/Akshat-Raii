@@ -18,7 +18,7 @@
 
 ### 🎨 My Portfolio
 
-[![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-FF6F61?style=for-the-badge&logo=vercel&logoColor=white)](https://akshatrai.vercel.app)
+[![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-FF6F61?style=for-the-badge&logo=vercel&logoColor=white)](https://therealakshat.vercel.app/)
 
 > 🧩 Explore my work, design inspirations, and projects that blend creativity with code — all in a manga-style themed portfolio!
 
